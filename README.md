@@ -33,12 +33,11 @@ Live Demo:
 📂 Project Structure
 
     Restaurant-Menu/
-    │
-    ├── index.html        # Main HTML file
-    ├── styles.css        # CSS styling
-    ├── script.js         # JavaScript functionality
-    ├── images/           # Food images
-    └── README.md         # Project documentation
+     -index.html        # Main HTML file
+     -styles.css        # CSS styling
+     -script.js         # JavaScript functionality
+     -images/           # Food images
+     -README.md         # Project documentation
 
 ⚙️ How It Works
 
