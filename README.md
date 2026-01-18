@@ -3,7 +3,9 @@
   An interactive and responsive restaurant web application that allows users to browse menu items, add food to a cart, place simulated orders, and submit reviews. 
   The project focuses on frontend logic, UI/UX design, and real-world user interactions using pure HTML, CSS, and JavaScript.
 
-Live Demo: https://lakshjagtap.github.io/RestaurantMenu/
+Live Demo: 
+     
+     https://lakshjagtap.github.io/RestaurantMenu/
 
 🚀 Features
 
@@ -29,6 +31,7 @@ Live Demo: https://lakshjagtap.github.io/RestaurantMenu/
 3.JavaScript (ES6) – DOM manipulation, event handling, cart logic, localStorage
 
 📂 Project Structure
+
     Restaurant-Menu/
     │
     ├── index.html        # Main HTML file
@@ -66,4 +69,5 @@ Live Demo: https://lakshjagtap.github.io/RestaurantMenu/
 
 Nikhil Jagtap
 Computer Engineering Student
-🔗 GitHub: https://github.com/Lakshjagtap
+
+    🔗 GitHub: https://github.com/Lakshjagtap
