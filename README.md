@@ -3,6 +3,8 @@
   An interactive and responsive restaurant web application that allows users to browse menu items, add food to a cart, place simulated orders, and submit reviews. 
   The project focuses on frontend logic, UI/UX design, and real-world user interactions using pure HTML, CSS, and JavaScript.
 
+Live Demo: https://lakshjagtap.github.io/RestaurantMenu/
+
 🚀 Features
 
 🏠 Single-Page Navigation (Home, Menu, Cart, Contact, Reviews)
